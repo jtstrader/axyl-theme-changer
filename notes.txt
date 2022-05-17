@@ -1,0 +1,8 @@
+START_PATH = "/home/jtstr/.config/bspwm/"
+
+Files to Change
+===============
+alacritty/colors.yml
+polybar/colors
+
+bspwmrc (theme=)
